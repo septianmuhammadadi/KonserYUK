@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sepsep.konseryuk">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Konser YUK!"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.sepsep.konseryuk.GetStartedAct"></activity>
+        <activity android:name="com.sepsep.konseryuk.EditProfileAct" />
+        <activity android:name="com.sepsep.konseryuk.MyTicketDetailAct" />
+        <activity android:name="com.sepsep.konseryuk.MyProfileAct" />
+        <activity android:name="com.sepsep.konseryuk.SuccessBuyTicketAct" />
+        <activity android:name="com.sepsep.konseryuk.TicketCheckoutAct" />
+        <activity android:name="com.sepsep.konseryuk.TicketDetailAct" />
+        <activity android:name="com.sepsep.konseryuk.HomeAct" />
+        <activity android:name="com.sepsep.konseryuk.SucessRegisterAct" />
+        <activity android:name="com.sepsep.konseryuk.RegisterTwoAct" />
+        <activity android:name="com.sepsep.konseryuk.RegisterOneAct" />
+        <activity android:name="com.sepsep.konseryuk.SignInAct" />
+        <activity android:name="com.sepsep.konseryuk.SplashAct">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

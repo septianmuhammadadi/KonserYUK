@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "722235569966",
+    "firebase_url": "https://konser-yuk.firebaseio.com",
+    "project_id": "konser-yuk",
+    "storage_bucket": "konser-yuk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722235569966:android:655d78f8780a039ab82cbf",
+        "android_client_info": {
+          "package_name": "com.sepsep.konseryuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722235569966-gg7iqoq411ou0mhs5320rs2tmgr4tn7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sepsep.konseryuk",
+            "certificate_hash": "593a09da5c1761aef21914d06a33e450c108bff2"
+          }
+        },
+        {
+          "client_id": "722235569966-t778l3vr27jvt48ulgkae58pu3qu8bt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7gQx2QF6lWjyBxH3_EsrfDESfDY3tkyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722235569966-t778l3vr27jvt48ulgkae58pu3qu8bt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
