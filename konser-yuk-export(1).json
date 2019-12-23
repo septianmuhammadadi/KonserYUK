@@ -1,0 +1,171 @@
+{
+  "MyTickets" : {
+    "sep" : {
+      "Boy Pablo-614310987" : {
+        "date_wisata" : "29 February 2020",
+        "id_ticket" : "Boy Pablo-614310987",
+        "jumlah_tiket" : "1",
+        "ketentuan" : "Anak berumur 3 tahun wajib beli tiket",
+        "lokasi" : "JIEXPO Kemayoran, Jakarta, Indonesia",
+        "nama_wisata" : "Boy Pablo",
+        "time_wisata" : "10AM to 12PM"
+      },
+      "Djakarta Warehouse Project1972719294" : {
+        "date_wisata" : "20 September 2019",
+        "id_ticket" : "Djakarta Warehouse Project1972719294",
+        "jumlah_tiket" : "1",
+        "ketentuan" : "Anak berumur 3 tahun wajib beli tiket",
+        "lokasi" : "JIEXPO Kemayoran, Jakarta, Indonesia",
+        "nama_wisata" : "Djakarta Warehouse Project",
+        "time_wisata" : "9AM to 12PM"
+      },
+      "Pagoda978781502" : {
+        "date_wisata" : "29 February 2020",
+        "id_ticket" : "Pagoda978781502",
+        "jumlah_tiket" : "1",
+        "ketentuan" : "Anak berumur 3 tahun wajib beli tiket",
+        "lokasi" : "Tokyo, Jepang",
+        "nama_wisata" : "Pagoda",
+        "time_wisata" : "10AM to 12PM"
+      },
+      "Rex Orange Country-935014610" : {
+        "date_wisata" : "30 January 2020",
+        "id_ticket" : "Rex Orange Country-935014610",
+        "jumlah_tiket" : "1",
+        "ketentuan" : "Anak berumur 3 tahun wajib beli tiket",
+        "lokasi" : "ICE BSD, Tanggerang, Indoensia",
+        "nama_wisata" : "Rex Orange Country",
+        "time_wisata" : "8AM to 12PM"
+      }
+    },
+    "septian" : {
+      "Boy Pablo1953053021" : {
+        "date_wisata" : "29 February 2020",
+        "id_ticket" : "Boy Pablo1953053021",
+        "jumlah_tiket" : "1",
+        "ketentuan" : "Anak berumur 3 tahun wajib beli tiket",
+        "lokasi" : "JIEXPO Kemayoran, Jakarta, Indonesia",
+        "nama_wisata" : "Boy Pablo",
+        "time_wisata" : "10AM to 12PM"
+      },
+      "Djakarta Warehouse Project1823213451" : {
+        "date_wisata" : "15 March 2020",
+        "id_ticket" : "Djakarta Warehouse Project1823213451",
+        "jumlah_tiket" : "1",
+        "ketentuan" : "Jangan lupa bawa payung karena panas",
+        "lokasi" : "JIEXPO Kemayoran, Jakarta, Indonesia",
+        "nama_wisata" : "Djakarta Warehouse Project",
+        "time_wisata" : "10AM to 12PM"
+      },
+      "Rex Orange Country219517040" : {
+        "date_wisata" : "30 January 2020",
+        "id_ticket" : "Rex Orange Country219517040",
+        "jumlah_tiket" : "1",
+        "ketentuan" : "Anak berumur 3 tahun wajib beli tiket",
+        "lokasi" : "ICE BSD, Tanggerang, Indoensia",
+        "nama_wisata" : "Rex Orange Country",
+        "time_wisata" : "8AM to 12PM"
+      }
+    }
+  },
+  "Users" : {
+    "sep" : {
+      "bio" : "sep",
+      "email_address" : "septianmuhammadadi@gmail.com",
+      "nama_lengkap" : "Septian",
+      "password" : "sep123",
+      "url_photo_profile" : "https://firebasestorage.googleapis.com/v0/b/konser-yuk.appspot.com/o/Photousers%2Fsep%2F1576737604395.jpg?alt=media&token=fed22bf7-e0ae-4f85-9d42-57bc5243f279",
+      "user_balance" : 415,
+      "username" : "sep"
+    },
+    "septian" : {
+      "bio" : "septian",
+      "email_address" : "sepsep@gmail.com",
+      "nama_lengkap" : "septian",
+      "password" : "septian123",
+      "url_photo_profile" : "https://firebasestorage.googleapis.com/v0/b/konser-yuk.appspot.com/o/Photousers%2Fseptian%2F1577053972739.jpg?alt=media&token=4e1527c3-3d0c-46a7-add6-9b298663b302",
+      "user_balance" : 725,
+      "username" : "septian"
+    }
+  },
+  "Wisata" : {
+    "Candi" : {
+      "date_wisata" : "15 March 2020",
+      "harga_tiket" : 125,
+      "is_festival" : "10 Festival",
+      "is_photo_spot" : "2 Night For Hotels",
+      "is_wifi" : "WiFi Available",
+      "ketentuan" : "Jangan lupa bawa payung karena panas",
+      "lokasi" : "JIEXPO Jakarta, Indonesia",
+      "nama_wisata" : "Djakarta Warehouse Project",
+      "short_desc" : "Djakarta Warehouse Project merupakan festival EDM terbesar di Asia Tenggara",
+      "time_wisata" : "10AM to 12PM",
+      "url_thumbnail" : "https://firebasestorage.googleapis.com/v0/b/konser-yuk.appspot.com/o/Wisata%2Fbgheader_candi.png?alt=media&token=c883f36b-a97f-43ac-ab21-2db646d4ed19"
+    },
+    "Monas" : {
+      "date_wisata" : "15 June 2021",
+      "harga_tiket" : 50,
+      "is_festival" : "5 Festival",
+      "is_photo_spot" : "Unlimited Photo Spots",
+      "is_wifi" : "WiFi Available",
+      "ketentuan" : "Anak berumur 3 tahun wajib beli tiket dan wajib diawasi",
+      "lokasi" : "Orchid Forest Cikole, Bandung, Indonesia",
+      "nama_wisata" : "Lalala Fest 2020",
+      "short_desc" : "Monas is a memorial monument as high as 132 meters in Jakarta, Indonesia.",
+      "time_wisata" : "10AM to 12PM",
+      "url_thumbnail" : "https://firebasestorage.googleapis.com/v0/b/konser-yuk.appspot.com/o/Wisata%2Fmonas.jpg?alt=media&token=75ab30ff-ed8f-46c9-86cc-49c6c4ad337a"
+    },
+    "Pagoda" : {
+      "date_wisata" : "29 February 2020",
+      "harga_tiket" : 100,
+      "is_festival" : "5 Festival",
+      "is_photo_spot" : "10 Photo Spots",
+      "is_wifi" : "WiFi Available",
+      "ketentuan" : "Anak berumur 3 tahun wajib beli tiket",
+      "lokasi" : "JIEXPO Kemayoran, Jakarta, Indonesia",
+      "nama_wisata" : "Boy Pablo",
+      "short_desc" : "Pagoda Chureito in Japan is beautifull place and near Fuji Mountain.",
+      "time_wisata" : "10AM to 12PM",
+      "url_thumbnail" : "https://firebasestorage.googleapis.com/v0/b/konser-yuk.appspot.com/o/Wisata%2Fbgheader_pagoda.png?alt=media&token=cd3667d9-85da-4b31-b0a8-9160d996c7c7"
+    },
+    "Pisa" : {
+      "date_wisata" : "20 September 2019",
+      "harga_tiket" : 400,
+      "is_festival" : "1 Festival",
+      "is_photo_spot" : "4 Night For Hotels",
+      "is_wifi" : "WiFi Available",
+      "ketentuan" : "Anak berumur 3 tahun wajib beli tiket",
+      "lokasi" : "JIEXPO Kemayoran, Jakarta, Indonesia",
+      "nama_wisata" : "Djakarta Warehouse Project",
+      "short_desc" : "Djakarta Warehouse Project merupakan festival EDM terbesar di Asia Tenggara.",
+      "time_wisata" : "9AM to 12PM",
+      "url_thumbnail" : "https://firebasestorage.googleapis.com/v0/b/konser-yuk.appspot.com/o/Wisata%2Fbgheader_pisa.png?alt=media&token=740ca485-accc-44c6-9819-e2b25ee0b1ff"
+    },
+    "Sphinx" : {
+      "date_wisata" : "15 March 2021",
+      "harga_tiket" : 100,
+      "is_festival" : "5 Festival",
+      "is_photo_spot" : "Unlimited Photo Spots",
+      "is_wifi" : "WiFi Not Available",
+      "ketentuan" : "Anak berumur 3 tahun wajib beli tiket",
+      "lokasi" : "ICE BSD, Tanggerang, Indonesia",
+      "nama_wisata" : "Honne",
+      "short_desc" : "The Great Sphinx of Giza, commonly referred to as the Sphinx of Giza or just the Sphinx.",
+      "time_wisata" : "10AM to 12PM",
+      "url_thumbnail" : "https://firebasestorage.googleapis.com/v0/b/konser-yuk.appspot.com/o/Wisata%2Fsphinx.jpeg?alt=media&token=4806881b-8e2f-4fbe-b875-29aac198a68c"
+    },
+    "Torri" : {
+      "date_wisata" : "30 January 2020",
+      "harga_tiket" : 50,
+      "is_festival" : "4 Festival",
+      "is_photo_spot" : "2 Night For Hotels",
+      "is_wifi" : "WiFi Available",
+      "ketentuan" : "Anak berumur 3 tahun wajib beli tiket",
+      "lokasi" : "ICE BSD, Tanggerang, Indoensia",
+      "nama_wisata" : "Rex Orange Country",
+      "short_desc" : "Japanese Torii Shinto Buddhist Temple.",
+      "time_wisata" : "8AM to 12PM",
+      "url_thumbnail" : "https://firebasestorage.googleapis.com/v0/b/konser-yuk.appspot.com/o/Wisata%2Fbgheader_torri.png?alt=media&token=a86bb8f3-e01f-42ab-ba32-7f92e2eb99bf"
+    }
+  }
+}
