@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:textSize="22sp"
         android:textColor="@color/grayPrimary"
-        android:text="Beli Tiket Konser Jadi Mudah"
+        android:text="@string/slogan"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="0dp"

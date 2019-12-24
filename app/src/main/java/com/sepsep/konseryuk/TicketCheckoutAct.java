@@ -89,7 +89,7 @@ public class TicketCheckoutAct extends AppCompatActivity {
             }
         });
 
-        reference = FirebaseDatabase.getInstance().getReference().child("Wisata").child(Objects.requireNonNull(jenis_tiket_baru));
+        reference = FirebaseDatabase.getInstance().getReference().child("Konser").child(Objects.requireNonNull(jenis_tiket_baru));
         reference.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {

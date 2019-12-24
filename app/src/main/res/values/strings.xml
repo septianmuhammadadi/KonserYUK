@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">PesanAja</string>
-    <string name="slogan">Wisata Jadi Lebih Asyik!</string>
+    <string name="app_name">Konser Yuk!</string>
+    <string name="slogan">Beli Tiket Konser Jadi Mudah</string>
     <string name="signin">SIGN IN</string>
     <string name="username_label">Username</string>
     <string name="password_label">Password</string>

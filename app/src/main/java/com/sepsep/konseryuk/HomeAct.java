@@ -92,7 +92,7 @@ public class HomeAct extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent gotopisaticket = new Intent(HomeAct.this, TicketDetailAct.class);
-                gotopisaticket.putExtra("jenis_tiket","Pisa");
+                gotopisaticket.putExtra("jenis_tiket","DWP");
                 startActivity(gotopisaticket);
             }
         });
@@ -100,7 +100,7 @@ public class HomeAct extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent gotopisaticket = new Intent(HomeAct.this, TicketDetailAct.class);
-                gotopisaticket.putExtra("jenis_tiket","Torri");
+                gotopisaticket.putExtra("jenis_tiket","Rex Orange");
                 startActivity(gotopisaticket);
             }
         });
@@ -108,7 +108,7 @@ public class HomeAct extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent gotopisaticket = new Intent(HomeAct.this, TicketDetailAct.class);
-                gotopisaticket.putExtra("jenis_tiket","Candi");
+                gotopisaticket.putExtra("jenis_tiket","WTF");
                 startActivity(gotopisaticket);
             }
         });
@@ -116,7 +116,7 @@ public class HomeAct extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent gotopisaticket = new Intent(HomeAct.this, TicketDetailAct.class);
-                gotopisaticket.putExtra("jenis_tiket","Sphinx");
+                gotopisaticket.putExtra("jenis_tiket","Honne");
                 startActivity(gotopisaticket);
             }
         });
@@ -124,7 +124,7 @@ public class HomeAct extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent gotopisaticket = new Intent(HomeAct.this, TicketDetailAct.class);
-                gotopisaticket.putExtra("jenis_tiket","Monas");
+                gotopisaticket.putExtra("jenis_tiket","Lala Fest");
                 startActivity(gotopisaticket);
             }
         });
@@ -132,7 +132,7 @@ public class HomeAct extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent gotopisaticket = new Intent(HomeAct.this, TicketDetailAct.class);
-                gotopisaticket.putExtra("jenis_tiket","Pagoda");
+                gotopisaticket.putExtra("jenis_tiket","Boy Pablo");
                 startActivity(gotopisaticket);
             }
         });

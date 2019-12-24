@@ -44,7 +44,7 @@ public class TicketDetailAct extends AppCompatActivity {
         Bundle bundle = getIntent().getExtras();
         final String jenis_tiket_baru = Objects.requireNonNull(bundle).getString("jenis_tiket");
 
-        reference = FirebaseDatabase.getInstance().getReference().child("Wisata").child(Objects.requireNonNull(jenis_tiket_baru));
+        reference = FirebaseDatabase.getInstance().getReference().child("Konser").child(Objects.requireNonNull(jenis_tiket_baru));
         reference.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {

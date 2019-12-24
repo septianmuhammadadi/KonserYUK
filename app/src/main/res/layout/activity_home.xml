@@ -181,7 +181,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:fontFamily="@font/mregular"
-                            android:text="DWP 2019"
+                            android:text="DWP"
                             android:textColor="@color/blackPrimary"
                             android:textSize="16sp" />
 
@@ -329,34 +329,6 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/textView5" />
 
-<!--            <HorizontalScrollView-->
-<!--                android:scrollbars="none"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="120dp"-->
-<!--                android:layout_marginStart="24dp"-->
-<!--                android:layout_marginLeft="24dp"-->
-<!--                android:layout_marginTop="16dp"-->
-<!--                app:layout_constraintEnd_toEndOf="parent"-->
-<!--                app:layout_constraintStart_toStartOf="parent"-->
-<!--                app:layout_constraintTop_toBottomOf="@+id/textView6">-->
-<!--                <LinearLayout-->
-<!--                    android:layout_width="match_parent"-->
-<!--                    android:layout_height="wrap_content"-->
-<!--                    android:orientation="horizontal">-->
-<!--                    <ImageView-->
-<!--                        android:id="@+id/pisa"-->
-<!--                        android:layout_width="227dp"-->
-<!--                        android:layout_height="98dp"-->
-<!--                        android:layout_marginRight="24dp"-->
-<!--                        android:src="@drawable/item_one"/>-->
-<!--                    <ImageView-->
-<!--                        android:id="@+id/paris"-->
-<!--                        android:layout_width="227dp"-->
-<!--                        android:layout_height="98dp"-->
-<!--                        android:layout_marginRight="24dp"-->
-<!--                        android:src="@drawable/item_two"/>-->
-<!--                </LinearLayout>-->
-<!--            </HorizontalScrollView>-->
             <androidx.viewpager.widget.ViewPager
                 android:id="@+id/viewPager"
                 android:layout_width="match_parent"
