@@ -44,19 +44,19 @@ public class ViewPagerAdapter extends PagerAdapter {
             public void onClick(View v) {
                 if(position == 0){
                     Intent webIntent = new Intent(Intent.ACTION_VIEW);
-                    webIntent.setData(Uri.parse("https://www.thewanderinglens.com/paris-places-photograph-eiffel-tower/"));
+                    webIntent.setData(Uri.parse("https://www.djakartawarehouse.com/lineup"));
                     context.startActivity(webIntent);
                 }else if (position == 1){
                     Intent webIntent = new Intent(Intent.ACTION_VIEW);
-                    webIntent.setData(Uri.parse("https://www.in-italia.com/italy/tuscany/pisa/the-history-of-pisa/"));
+                    webIntent.setData(Uri.parse("https://lalalafest.com/"));
                     context.startActivity(webIntent);
                 }else if (position == 2 ){
                     Intent webIntent = new Intent(Intent.ACTION_VIEW);
-                    webIntent.setData(Uri.parse("https://theculturetrip.com/asia/japan/articles/the-most-beautiful-shinto-shrines-in-kyoto/"));
+                    webIntent.setData(Uri.parse("https://www.wethefest.com/lineup"));
                     context.startActivity(webIntent);
                 }else{
                     Intent webIntent = new Intent(Intent.ACTION_VIEW);
-                    webIntent.setData(Uri.parse("https://theculturetrip.com/asia/thailand/articles/history-of-wat-arun-in-60-seconds/"));
+                    webIntent.setData(Uri.parse("https://supermusic.id/supernews/supershow/boy-pablo-kembali-tampil-di-jakarta-november-mendatang"));
                     context.startActivity(webIntent);
                 }
             }
